@@ -60,7 +60,7 @@
 
 <hr>
 
-## Currently Learning :beginner:
+## Expert at::
 
 - **Web Development**
 <table>
