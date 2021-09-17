@@ -102,7 +102,7 @@
 
 ## Thank you for visiting my profile. You're a gem. :gem:
 
-![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/azeez010/count.svg)
 
 <hr>
 
