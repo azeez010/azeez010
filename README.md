@@ -66,8 +66,6 @@
 
 ## Currently Learning :beginner:
 
-- **Data Science**
-
 - **Web Development**
 <table>
 <tbody>
