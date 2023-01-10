@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+8+years+of+Experience+in+Web." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+Full+Stack+Web+Developer;Over+4+years+of+Experience+in+Web." alt="Typing SVG" /></a>
 </div>
 
 ## Overview
@@ -34,63 +34,6 @@
 
 ###   Hello World! :yellow_heart:
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
-
-<hr>
-
-## My Skills :computer:
-
-- **Programming Languages**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
-
-
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="25%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-
-<td align="center" width="25%">
-<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
-</td>
-
-<td align="center" width="25%">
-   <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
-</td>
- <td align="center" width="25%">
-   <img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
-</td>
-
-</tr>
-
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
 
 <hr>
 
