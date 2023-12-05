@@ -77,7 +77,7 @@ Welcome to My Code Sanctuary 👨‍💻
 
 About Me
 
-Hey there! 👋 I'm a seasoned senior full stack engineer with a passion for building robust and scalable systems. My expertise spans multiple languages, including Python, JavaScript, Java, C#, and Golang. With a strong foundation in backend development, distributed systems, and DevOps, I thrive on turning complex challenges into elegant solutions.
+Hey there! 👋 I'm a seasoned senior full stack engineer with a passion for building robust and scalable systems. My expertise spans multiple languages, including Python, JavaScript, React, Kotlin, Swift, Java, C#, and Golang. With a strong foundation in backend development, distributed systems, and DevOps, I thrive on turning complex challenges into elegant solutions.
 
 Technical Toolbox 🧰
 
