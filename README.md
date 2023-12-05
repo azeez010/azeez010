@@ -94,5 +94,5 @@ Let's Connect 🌐
 
 If you're as passionate about tech as I am, let's connect! Whether you're interested in discussing distributed systems, exploring the latest advancements in DevOps, or just geeking out over code, I'm always up for a chat. Feel free to reach out and let's create some tech magic together! ✨
 
-- 📫 How to reach me: dataslid@gmail.com
-- ⚡ Fun fact: I am a night owl
+- 📫 How to reach me: dionjordanpowell@gmail.com
+- ⚡ Fun fact: I am a night owl... and a day time eagle
