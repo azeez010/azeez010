@@ -67,7 +67,7 @@
 <a href="https://github.com/azeez010"><img src="https://img.shields.io/badge/-azeez010-black?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdulazeez-olabode-52a81019b/-19baa0182/"><img src="https://img.shields.io/badge/-https://www.linkedin.com/in/abdulazeez-olabode-52a81019b/-blue?logo=linkedin&style=flat-square"></a>
 <!-- <a href="https://instagram.com/divyasrujana?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-Divya_Srujana-pink?logo=instagram&style=flat-square"/></a> -->
-<a href="mailto:dionjordanpowell@gmail.com"><img src="https://img.shields.io/badge/-dionjordanpowell@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="mailto:azeezolabode010@gmail.com"><img src="https://img.shields.io/badge/-dionjordanpowell@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <!-- <a href="https://twitter.com/divya_emmadi"><img src="https://img.shields.io/badge/-divya__emmadi-blue?logo=twitter&style=flat-square"/></a> -->
 </p>
 
